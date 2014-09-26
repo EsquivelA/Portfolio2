@@ -1,4 +1,8 @@
 div {
+    /*
+    the style for the borders and 
+    space in between the boarders
+    */
     border-style:solid;
     border-width:5px;
     border-color:green;
@@ -6,15 +10,26 @@ div {
 }
 
 .container {
+    /*
+    Boarder color for a specific
+    boarder
+    */
     border-color: blue;
     
 }
 
 .row {
+    /*
+    the color of all my rows
+    */
     border-color: red;
 }
 
 .list-group-item {
+    /*
+    the space I want in between
+    my links on  the side
+    */
     border: 0px;
     margin-top: 40px;
     margin-bottom: 40px;
